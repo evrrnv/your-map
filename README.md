@@ -63,7 +63,7 @@ $ go build
 ```
 
 ### Config Access Points
-1. The file named AP.ino in the root of the project contains the code for configuring an ESP8266 access point, you just need to set the SSID and password of your access point by updating the fields ACCESS_POINT_NAME and ACCESS_POINT_PASSWORD
+1. The file named ap.ino in the "access-point" directory contains the code for configuring an ESP8266 access point, you just need to set the SSID and password of your access point by updating the fields ACCESS_POINT_NAME and ACCESS_POINT_PASSWORD
 
 ## Run
 
